@@ -21,12 +21,16 @@
 - [Short introduction Pluralsight](https://www.pluralsight.com/blog/it-ops/networking-basics-tcp-udp-tcpip-osi-models?clickid=QIFw%3AYxojxyOW95wUx0Mo3QwUknyyMXVfTaVWA0&irgwc=1&mpid=27795&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=27795&aid=7010a000001xAKZAA2)
 - [PenguinTutor](http://www.penguintutor.com/linux/basic-network-reference)
 
-## Metasploit
+### Metasploit
 - [OffSec official](https://www.offensive-security.com/metasploit-unleashed/)
 
-## Linux
+### Linux
 - [Linux CLI Book](http://linuxcommand.org/tlcl.php)
 - [OverTheWire training resource](https://overthewire.org/wargames/bandit/bandit0.html)
+
+### Python
+- **Violent Python**
+- **Blackhat Python**
 
 
 ## HTB boxes which can be used for practice
