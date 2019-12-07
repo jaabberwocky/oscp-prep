@@ -12,6 +12,20 @@
 * 1/2 part web server/client knowledge - nice to have hosted anything with apache/iis in the past and understand config files, ports, php/javascript a little
 * 1 part coding/scripting logic/basics - if you can make a bash/perl/powershell/c/python script or have coded in the past enough to read and minorly edit script/code chunks; nothing amazing
 
+## Resources
+
+### Networking
+- [Short introduction Pluralsight](https://www.pluralsight.com/blog/it-ops/networking-basics-tcp-udp-tcpip-osi-models?clickid=QIFw%3AYxojxyOW95wUx0Mo3QwUknyyMXVfTaVWA0&irgwc=1&mpid=27795&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=27795&aid=7010a000001xAKZAA2)
+- [PenguinTutor](http://www.penguintutor.com/linux/basic-network-reference)
+
+## Metasploit
+- [OffSec official](https://www.offensive-security.com/metasploit-unleashed/)
+
+## Linux
+- [Linux CLI Book](http://linuxcommand.org/tlcl.php)
+- [OverTheWire training resource](https://overthewire.org/wargames/bandit/bandit0.html)
+
+
 ## HTB boxes which can be used for practice
 [Link](https://forum.hackthebox.eu/discussion/612/oscp-practice)
 
