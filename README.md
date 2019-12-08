@@ -59,4 +59,8 @@
 
 [Youtube Playlist](https://www.youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf)
 
+## Penetration Testing by Georgia Weidman
 
+Great book! Some things are outdated, but you can get the resources [here](https://s3.us-east-2.amazonaws.com/penetrationtestingedition1/index.html)
+
+Notes to follow through here: [https://github.com/PollyP/Notes-on-Penetration-Testing-A-Hands-On-Guide-to-Hacking](https://github.com/PollyP/Notes-on-Penetration-Testing-A-Hands-On-Guide-to-Hacking)
