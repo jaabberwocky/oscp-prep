@@ -28,7 +28,7 @@
 - [Linux CLI Book](http://linuxcommand.org/tlcl.php)
 - [OverTheWire training resource](https://overthewire.org/wargames/bandit/bandit0.html)
 
-### Python
+### Python (books)
 - **Violent Python**
 - **Blackhat Python**
 
