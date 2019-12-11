@@ -12,6 +12,22 @@
 * 1/2 part web server/client knowledge - nice to have hosted anything with apache/iis in the past and understand config files, ports, php/javascript a little
 * 1 part coding/scripting logic/basics - if you can make a bash/perl/powershell/c/python script or have coded in the past enough to read and minorly edit script/code chunks; nothing amazing
 
+## Path
+Based on my research, I will probably do this:
+
+### Preparatory Phase (2 - 3 months)
+* Read up on networking (Professor Messer) 
+* Complete Georgia Weidman's book *Introduction to Penetration Testing*
+* Read overview of some general infosec book (*Hacking Exploitation* or *CEH AIO study guide*)
+
+### OffSec Phase (2 - 3 months)
+* Complete video training and read PDF
+* Complete labs
+
+### Supplementary phase (1 - 2 months)
+* Get better at App Sec [PentesterLab](https://pentesterlab.com/)
+* Read supplementary books (undecided for now)
+
 ## Resources
 
 ### OSCP
@@ -20,6 +36,7 @@
 ### Networking
 - [Short introduction Pluralsight](https://www.pluralsight.com/blog/it-ops/networking-basics-tcp-udp-tcpip-osi-models?clickid=QIFw%3AYxojxyOW95wUx0Mo3QwUknyyMXVfTaVWA0&irgwc=1&mpid=27795&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=27795&aid=7010a000001xAKZAA2)
 - [PenguinTutor](http://www.penguintutor.com/linux/basic-network-reference)
+- [Professor Messer](https://www.professormesser.com/network-plus/n10-007/introduction-to-ip/)
 
 ### Metasploit
 - [OffSec official](https://www.offensive-security.com/metasploit-unleashed/)
@@ -33,7 +50,7 @@
 - **Blackhat Python**
 
 
-## HTB boxes which can be used for practice
+### HTB boxes which can be used for practice
 [Link](https://forum.hackthebox.eu/discussion/612/oscp-practice)
 
 ```
@@ -59,7 +76,7 @@
 
 [Youtube Playlist](https://www.youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf)
 
-## Penetration Testing by Georgia Weidman
+### Penetration Testing by Georgia Weidman
 
 Great book! Some things are outdated, but you can get the resources [here](https://s3.us-east-2.amazonaws.com/penetrationtestingedition1/index.html)
 
