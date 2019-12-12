@@ -26,6 +26,7 @@ Based on my research, I will probably do this:
 
 ### Supplementary phase (1 - 2 months)
 * Get better at App Sec [PentesterLab](https://pentesterlab.com/)
+* Get better at buffer overflow [Pentester Academy](https://www.pentesteracademy.com)
 * Read supplementary books (undecided for now)
 
 ## Resources
@@ -44,6 +45,10 @@ Based on my research, I will probably do this:
 ### Linux
 - [Linux CLI Book](http://linuxcommand.org/tlcl.php)
 - [OverTheWire training resource](https://overthewire.org/wargames/bandit/bandit0.html)
+- [Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+
+### Windows
+- [Windows privilege escalation](https://www.fuzzysecurity.com/tutorials/16.html)
 
 ### Python (books)
 - **Violent Python**
