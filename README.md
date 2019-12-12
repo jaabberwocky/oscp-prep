@@ -81,6 +81,8 @@ Based on my research, I will probably do this:
 
 [Youtube Playlist](https://www.youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf)
 
+This one seems useful also: [Virtual Hacking Labs](https://www.virtualhackinglabs.com)
+
 ### Penetration Testing by Georgia Weidman
 
 Great book! Some things are outdated, but you can get the resources [here](https://s3.us-east-2.amazonaws.com/penetrationtestingedition1/index.html)
